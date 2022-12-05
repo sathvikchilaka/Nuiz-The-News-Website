@@ -1,6 +1,6 @@
 # Nuiz (The News Website)
 
-Find Breaking Hot News from our website [NUIZ](https://nuiz.herokuapp.com/home) - https://nuiz.herokuapp.com.
+Find Breaking Hot News from our website [NUIZ](https://nuiz.onrender.com/) - https://nuiz.onrender.com.
 <br /><br />
 Group Project by:  **Naseer, Nitish, Bharat, Sathvik and Dhiren**.
 
